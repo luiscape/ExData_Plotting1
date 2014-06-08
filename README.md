@@ -12,7 +12,7 @@ Using R's base graphics, the code to reproduce the plots -- under the `Reference
 Resulting Plots
 ---------------
 
-The resulting plots can be seen in the [graphics](XXX) folder in this repository.
+The resulting plots can be seen in the [graphics](https://github.com/luiscape/ExData_Plotting1/tree/master/graphics) folder in this repository.
 
 
 Reference
